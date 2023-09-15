@@ -2,6 +2,7 @@
 
 node app.js
 
+// an example
 input: [3,3]  ,   DIRECTION=west =>     output: [2,1] 
 
 /* this app use random function to create random position, 
