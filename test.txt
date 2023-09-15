@@ -1,0 +1,9 @@
+/* to run application, enter this command in the terminal */
+
+node app.js
+
+input: [3,3]  ,   DIRECTION=west =>     output: [2,1] 
+
+/* this app use random function to create random position, 
+you just need to run the node app.js command 
+*/
